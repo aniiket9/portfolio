@@ -8,4 +8,4 @@ For now i know :
 3. Repl.it
 4. CHALK
 
-Please check my deployed site here: https://amazing-biscuit-6cd114.netlify.app/
+Please check my deployed site here: https://aniketlawaniya.netlify.app/
