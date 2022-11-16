@@ -8,4 +8,6 @@ For now i know :
 3. Repl.it
 4. CHALK
 
-Please check my deployed site here: https://aniketlawaniya.netlify.app/
+Please check my deployed site here: https://aniketlawaniya.netlify.app
+
+I'm not able to push my code at git because my company's vpn is blocking it.
